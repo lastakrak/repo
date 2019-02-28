@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>1.0.0-2</version>
+		<change>Second release</change>
+		<change>fixed stuff</change>
+	</changes>
+	<changes>
+		<version>1.0.0-1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
